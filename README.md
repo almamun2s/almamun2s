@@ -3,7 +3,7 @@
 
 <h4>Web Development is my meditation. My goal is to make satisfy my every clients with error free and all the requirements of them.</h4>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Web Development**
 
