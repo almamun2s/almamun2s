@@ -13,17 +13,20 @@
 <div style="display:flex;align-items:center;gap:5px;">
 <div>
 
-![GitHub stats of Abdullah Almamun](https://github-readme-stats.vercel.app/api?username=almamun2s&theme=shadow_green&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=almamun2s&theme=shadow_green&show_icons=true">
+
 </div>
 
 <div>
 
-![GitHub Contributions of Abdullah Almamun](https://github-readme-streak-stats.herokuapp.com/?user=almamun2s&theme=shadow_green)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=almamun2s&theme=shadow_green">
+
 </div>
 
-<div style="height:100%">
+<div>
 
-![Github Most Used Languages of Abdullah Almamun](https://github-readme-stats.vercel.app/api/top-langs?username=almamun2s&layout=compact&langs_count=8&theme=shadow_green)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=almamun2s&layout=compact&langs_count=8&theme=shadow_green">
+
 </div>
 </div>
 
