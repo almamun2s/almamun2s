@@ -11,23 +11,13 @@
 <p>I design and develop web applications for clients of all sizes, focusing on creating robust, scalable, and efficient solutions. Specializing in Laravel, I craft stylish, modern websites, comprehensive web services, and dynamic online stores. My passion lies in coding seamless user experiences through clean, maintainable code and meaningful interactions, ensuring each project not only meets but exceeds client expectations</p>
 
 <div style="display:flex;align-items:center;gap:5px;">
-<div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=almamun2s&theme=shadow_green&show_icons=true">
 
-</div>
-
-<div>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=almamun2s&theme=shadow_green">
-
-</div>
-
-<div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=almamun2s&layout=compact&langs_count=8&theme=shadow_green">
 
-</div>
 </div>
 
 
