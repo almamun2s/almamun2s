@@ -20,6 +20,7 @@
 
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/0abbda0a-b000-44d3-8d3c-8c1f89feb3b0.svg)](https://wakatime.com/@0abbda0a-b000-44d3-8d3c-8c1f89feb3b0)
 
 
 <h3 align="center">Connect with me:</h3>
