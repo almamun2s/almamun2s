@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/almamun2s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almamun2s" height="30" width="40" /></a>
 <a href="https://fb.com/almamun2s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="almamun2s" height="30" width="40" /></a>
 <a href="https://instagram.com/almamun2s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="almamun2s" height="30" width="40" /></a>
-<a href="https://wa.me/+8801909077868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="almamun2s" height="30" width="40" /></a>
+<a href="https://wa.me/message/PJTAGI6VVLIYG1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="almamun2s" height="30" width="40" /></a>
 <a href="https://join.skype.com/invite/wVeQz3eJd7ZJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="almamun2s" height="30" width="40" /></a>
 </p>
 
